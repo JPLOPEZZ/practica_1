@@ -1,0 +1,27 @@
+h1 {
+    color: blueviolet;
+}
+
+ol {
+    color: brown;
+}
+
+p {
+    background-color: aqua;    
+}
+
+.parrafo1 {
+    color: blueviolet;
+}
+
+#contenedor-principal{
+    background-color: blue;
+}
+
+div {
+    background-color: crimson;
+}
+
+.border {
+    border: 10px solid black;
+}
